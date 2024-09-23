@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "bun --hot serve.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest"
+  }
+}
